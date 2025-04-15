@@ -2,3 +2,7 @@
 cache
 
 .idea
+
+config.toml
+
+.ipynb_checkpoints
